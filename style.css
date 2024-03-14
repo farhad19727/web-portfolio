@@ -1,0 +1,53 @@
+body{
+    margin: 0%;
+    .archivo-black-regular {
+        font-family: "Archivo Black", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+}
+.name{
+    color: rgb(220, 13, 123);
+}
+
+
+h1{
+    font-size: 50px;
+}
+h3{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p:hover{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(16, 63, 173);
+    f
+
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin: 4%;
+    padding: 3%;
+}
+.half-width img{
+   width: 100%;
+   
+}
+.top{
+    background-image: url("imega/top-banner.png");
+}
+section{
+    height: 300px;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-color: blue;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: beige;
+    font-weight: 700;
+
+}
