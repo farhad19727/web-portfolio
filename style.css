@@ -26,13 +26,13 @@ p:hover{
 
 }
 .half-width{
-    width: 30%;
+    width: 35%;
     float: left;
     margin: 4%;
     padding: 3%;
 }
 .half-width img{
-   width: 100%;
+   width: 80%;
    
 }
 .top{
@@ -40,6 +40,7 @@ p:hover{
 }
 section{
     height: 300px;
+    padding-bottom: 150px;
     
 }
 .link-button{
@@ -50,4 +51,9 @@ section{
     color: beige;
     font-weight: 700;
 
+}
+.dream{
+    background-image: url("imega/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
