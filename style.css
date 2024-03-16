@@ -81,6 +81,7 @@ footer p{
 .photo-album{
     height: 100%;
     padding-bottom: 300px;
+    display: flex;
 }
 .photo-frame{
     width: 300px;
